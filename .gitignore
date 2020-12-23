@@ -1,0 +1,11 @@
+# configuration files
+.venv
+.env
+
+# development files
+mysql-data
+redis-data
+
+# miscellaneous
+.DS_Store
+.pyc
